@@ -2,8 +2,8 @@
 - - - -
 
 #Preview
-![picture alt](preview1.png/200x150)
-![picture alt](preview2.png/200x150)
+![picture alt](preview1.png)
+![picture alt](preview2.png)
 
 #Application
 
