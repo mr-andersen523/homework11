@@ -1,9 +1,8 @@
 #Unit 11 Express Homework: Note Taker
-- - - -
 
 #Preview
-![picture alt](preview1.png)
-![picture alt](preview2.png)
+![picture alt](previews/preview1.png)
+![picture alt](previews/preview2.png)
 
 #Application
 
