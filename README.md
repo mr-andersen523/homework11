@@ -26,7 +26,7 @@ For users that need to keep track of a lot of information, it's easy to forget o
 ## Instructions
 - - - -
 1. Clone respository to your working directory
-2. In your code editiing terminal run `npm intall`
+2. In your code editiing terminal run `npm install`
 3. After installation, run `node server.js`
 4. The console log will say `App listening on PORT: 3000'
 5. Click this http://localhost:3000/ or copy and paste into your browser
