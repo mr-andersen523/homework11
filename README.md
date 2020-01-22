@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-#Unit 11 Express Homework: Note Taker
-
-#Preview
-![picture alt](previews/preview1.png)
-![picture alt](previews/preview2.png)
-=======
 # Unit 11 Express Homework: Note Taker
 To view application click [here](https://limitless-scrubland-31066.herokuapp.com/)
 - - - -
@@ -18,7 +11,6 @@ For users that need to keep track of a lot of information, it's easy to forget o
 ![picture alt](preview1.png)
 
 ![picture alt](preview2.png)
->>>>>>> 7e427dbab022fabb65ba2b01854651fefa48d54d
 
 
 
