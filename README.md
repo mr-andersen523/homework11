@@ -8,9 +8,9 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## Preview
 - - - -
-![picture alt](preview1.png)
+![picture alt](previews/preview1.png)
 
-![picture alt](preview2.png)
+![picture alt](previews/preview2.png)
 
 
 
