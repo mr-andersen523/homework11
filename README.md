@@ -1,15 +1,20 @@
 # Unit 11 Express Homework: Note Taker
 - - - -
 
-#Preview
+# Preview
+- - - -
 ![picture alt](preview1.png)
+
 ![picture alt](preview2.png)
 
+
 # Application
+- - - -
 
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
 # Usage
+- - - -
 
 * Allows users to create and save notes.
 
@@ -18,5 +23,7 @@ For users that need to keep track of a lot of information, it's easy to forget o
 * Allows users to delete previously saved notes.
 
 # Instructions
+- - - -
 
 # Demo
+- - - -
