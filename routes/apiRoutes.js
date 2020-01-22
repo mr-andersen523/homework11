@@ -60,21 +60,21 @@ module.exports = function(app){
         console.log(id);
 
         // filter notesArray for id
-        for (i=0; i < notesData.length; i++){
+        for (i=0; i < noteData.length; i++){
            
-            if (notesData[i].id == id){
+            if (noteData[i].id == id){
                 console.log("match!");
                 // respond deleted note
-                res.send(notesData[i]);
+                res.send(noteData[i]);
 
                 // Remove deleted note
-                notesData.splice(i,1);
+                noteData.splice(i,1);
                 break;
             }
         }
 
         // Write note data to DB
-        writeToDB(notesData);
+        writeToDB(noteData);
 
     });
 };
