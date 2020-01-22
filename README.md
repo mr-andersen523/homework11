@@ -1,19 +1,20 @@
 # Unit 11 Express Homework: Note Taker
+To view application click [here](https://limitless-scrubland-31066.herokuapp.com/)
+- - - -
+## Application
 - - - -
 
-# Preview
+For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
+
+## Preview
 - - - -
 ![picture alt](preview1.png)
 
 ![picture alt](preview2.png)
 
 
-# Application
-- - - -
 
-For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
-
-# Usage
+## Usage
 - - - -
 
 * Allows users to create and save notes.
@@ -22,8 +23,8 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 * Allows users to delete previously saved notes.
 
-# Instructions
+## Instructions
 - - - -
 
-# Demo
+## Demo
 - - - -
