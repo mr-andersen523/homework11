@@ -30,3 +30,5 @@ For users that need to keep track of a lot of information, it's easy to forget o
 3. After installation, run `node server.js`
 4. The console log will say `App listening on PORT: 3000`
 5. Click this http://localhost:3000/ or copy and paste into your browser
+   
+Note: Press `control` + `C` on Mac, to stop the server from listening
